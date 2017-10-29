@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Ch3_Slide8.svg">
+   sodipodi:docname="Ch4_Slide4.svg">
   <defs
      id="defs4">
     <marker
@@ -85,8 +85,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="-149.67382"
-     inkscape:cy="309.775"
+     inkscape:cx="381.03927"
+     inkscape:cy="239.06432"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1379,7 +1379,7 @@
          x="56.568542"
          y="763.22546"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
-         id="tspan4569">+ Hear the audience</tspan><tspan
+         id="tspan4569">+ Can't hear the audience</tspan><tspan
          sodipodi:role="line"
          x="56.568542"
          y="819.47546"
@@ -1388,6 +1388,11 @@
          sodipodi:role="line"
          x="56.568542"
          y="875.72546"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
+         id="tspan4371">+ Talking token</tspan><tspan
+         sodipodi:role="line"
+         x="56.568542"
+         y="931.97546"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
          id="tspan4573" /></text>
   </g>
