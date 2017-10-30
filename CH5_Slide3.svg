@@ -70,7 +70,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="53.383881"
+     inkscape:cx="-285.61612"
      inkscape:cy="434.40221"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1099,27 +1099,27 @@
          x="58.882248"
          y="652.26965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
-         id="tspan4294">Jabra rules</tspan><tspan
+         id="tspan4294">Jabra rules:</tspan><tspan
          sodipodi:role="line"
          x="58.882248"
          y="708.51965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
-         id="tspan4284">- small groups</tspan><tspan
+         id="tspan4284">- Small groups</tspan><tspan
          sodipodi:role="line"
          x="58.882248"
          y="764.76965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
-         id="tspan4370">- speak one after another</tspan><tspan
+         id="tspan4370">- Speak one after another</tspan><tspan
          sodipodi:role="line"
          x="58.882248"
          y="821.01965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
-         id="tspan4376">- higher position</tspan><tspan
+         id="tspan4376">- Higher position</tspan><tspan
          sodipodi:role="line"
          x="58.882248"
          y="877.26965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
-         id="tspan4403">- always speak into the microphone</tspan><tspan
+         id="tspan4403">- Always speak into the microphone</tspan><tspan
          sodipodi:role="line"
          x="58.882248"
          y="933.51965"
