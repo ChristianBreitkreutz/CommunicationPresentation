@@ -55,8 +55,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="403.10881"
-     inkscape:cy="250.66756"
+     inkscape:cx="604.60881"
+     inkscape:cy="237.66756"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,8 +90,8 @@
        id="rect5199"
        width="1099"
        height="569"
-       x="-23"
-       y="527.36212" />
+       x="-37"
+       y="524.36212" />
     <g
        id="g4603"
        transform="matrix(1.1185619,0,0,1.1185619,-35.499824,-10.822691)">
@@ -323,7 +323,7 @@
        transform="matrix(-0.8660254,0.5,0.5,0.8660254,0,0)" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.08661413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 376,893.36213 c 0,0 74.57436,140.07347 145,124.99997 70.42564,-15.0735 26.7599,-75.34629 102,-94.99997 75.2401,-19.65368 43.81283,106.02077 185,50 141.18717,-56.02077 257,115.99997 257,115.99997"
+       d="m 376,893.36213 c 0,0 53.57436,94.07347 123,98.99997 69.42564,4.9265 68.7599,-79.34629 124,-68.99997 55.2401,10.34632 21.81283,176.02077 171,112.99997 149.18717,-63.02074 265,60 265,60"
        id="path4229"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzzc" />

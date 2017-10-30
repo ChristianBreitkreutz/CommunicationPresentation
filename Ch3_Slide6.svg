@@ -85,8 +85,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="287.42777"
-     inkscape:cy="198.09321"
+     inkscape:cx="333.22196"
+     inkscape:cy="239.45043"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -116,15 +116,15 @@
      id="layer1"
      transform="translate(0,-552.36213)">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#8c8c8c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4989"
-       width="1110.1576"
-       height="581.24176"
-       x="-67.882248"
-       y="500.81885" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#8c8c8c;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4258"
+       width="1090.3586"
+       height="591.1413"
+       x="-43.840622"
+       y="524.86047" />
     <g
        id="g4603"
-       transform="matrix(1.1185619,0,0,1.1185619,-35.499824,-10.822691)">
+       transform="matrix(1.1185619,0,0,1.1185619,-35.499824,-11.322691)">
       <g
          style="fill:#ffffff"
          transform="translate(86.974132,213.54625)"
@@ -195,7 +195,7 @@
     </g>
     <g
        id="g4379"
-       transform="matrix(2.0410647,0,0,2.0410647,-2275.9378,-534.47889)">
+       transform="matrix(2.0410647,0,0,2.0410647,-2275.9378,-534.97889)">
       <path
          d="m 1037.8158,325.53272 a 11.062901,11.062901 0 0 1 3.2471,7.83441 11.062901,11.062901 0 0 1 -3.2541,7.83152"
          sodipodi:open="true"
@@ -255,7 +255,7 @@
     </g>
     <g
        id="g5183"
-       transform="matrix(0.8660254,0.5,-0.5,0.8660254,223.90821,-417.28602)">
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,223.90821,-417.78602)">
       <path
          sodipodi:nodetypes="czzzc"
          inkscape:connector-curvature="0"
@@ -290,7 +290,7 @@
     </g>
     <g
        id="g4703"
-       transform="matrix(3.0350977,0,0,3.0350977,1306.3187,-1536.5858)">
+       transform="matrix(3.0350977,0,0,3.0350977,1306.3187,-1537.0858)">
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          rx="2.28057"
@@ -332,7 +332,7 @@
     </g>
     <g
        id="g4249"
-       transform="translate(-1.0549867,4.6828956)">
+       transform="translate(-1.0549867,4.1828956)">
       <g
          transform="matrix(0.75656452,0,0,0.75656452,148.87499,164.07877)"
          id="g5303">
@@ -630,7 +630,7 @@
     </g>
     <g
        id="g4299"
-       transform="matrix(-0.48444662,1.0082124,-1.0082124,-0.48444662,581.52184,279.97747)"
+       transform="matrix(-0.48444662,1.0082124,-1.0082124,-0.48444662,581.52184,279.47747)"
        inkscape:transform-center-x="-154.46002"
        inkscape:transform-center-y="66.875387">
       <path
@@ -664,7 +664,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-3.0350977,0,0,3.0350977,-295.62487,-1538)"
+       transform="matrix(-3.0350977,0,0,3.0350977,-295.62487,-1538.5)"
        id="g4977">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07743466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
