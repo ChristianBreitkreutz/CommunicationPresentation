@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Ch2_Slide5.svg">
+   sodipodi:docname="Ch2_Slide2_a.svg">
   <defs
      id="defs4">
     <marker
@@ -55,7 +55,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="447.07704"
+     inkscape:cx="236.35922"
      inkscape:cy="108.44727"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -407,7 +407,9 @@
          id="tspan4560"
          x="195.41422"
          y="979.36212"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'">release button</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'">release button <tspan
+   style="font-size:22.5px"
+   id="tspan4199">(xlr)</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 595,645.36213 0,92"
