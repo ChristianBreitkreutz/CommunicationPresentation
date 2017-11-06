@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="CH6_Slide1.svg">
+   sodipodi:docname="Ch6_Slide1.svg">
   <defs
      id="defs4">
     <marker
@@ -70,7 +70,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="240.88049"
+     inkscape:cx="30.162669"
      inkscape:cy="357.59602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -79,7 +79,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1861"
      inkscape:window-height="1056"
-     inkscape:window-x="59"
+     inkscape:window-x="1979"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      units="px">
@@ -1114,10 +1114,20 @@
          x="58.882248"
          y="821.01965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
-         id="tspan4376">- Treat it as a broadcast</tspan><tspan
+         id="tspan4376">- Give feedback</tspan><tspan
          sodipodi:role="line"
          x="58.882248"
          y="877.26965"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
+         id="tspan4291">- Treat it as a broadcast</tspan><tspan
+         sodipodi:role="line"
+         x="58.882248"
+         y="933.51965"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
+         id="tspan4289" /><tspan
+         sodipodi:role="line"
+         x="58.882248"
+         y="989.76965"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
          id="tspan4419" /></text>
     <flowRoot
